@@ -1,0 +1,23 @@
+[project]
+name = "paperwork-assistant"
+version = "0.1.0"
+description = "Private assistant that explains letters, bills and medical paperwork in plain language, using NVIDIA Nemotron on Nebius Token Factory."
+requires-python = ">=3.10"
+dependencies = ["httpx>=0.27"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+paperwork = "paperwork_assistant.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

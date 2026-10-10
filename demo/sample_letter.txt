@@ -1,0 +1,21 @@
+SYNTHETIC SAMPLE. All names, numbers and addresses below are invented for testing.
+
+Sunrise Mutual Health Insurance
+Claims Department
+
+Date: 2026-09-15
+To: Ravi Kumar Sharma
+Member ID: 4829 1037 5561
+Email: ravi.sharma@example.com Phone: +91 98765 43210
+
+Re: Claim 88231 for outpatient consultation on 2026-08-28
+
+Dear Mr. Sharma,
+
+We reviewed your claim of Rs 4,800. We approved Rs 3,200. The remaining Rs 1,600 was not covered because the consultation fee exceeds the plan's reasonable-charge limit (Clause 7.2).
+
+If you disagree, you may file an appeal in writing by 2026-10-31. Attach the original bill and the prescription. Appeals after that date may not be considered.
+
+Payment of Rs 3,200 will be made to the account ending 4455 within 10 working days.
+
+Sunrise Mutual Health Insurance
